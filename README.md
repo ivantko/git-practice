@@ -1,1 +1,2 @@
-test 2 
+# Testing area for Git Bash
+testing Git with VScode123test 2 
